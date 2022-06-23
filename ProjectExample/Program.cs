@@ -24,6 +24,11 @@ namespace ProjectExample
             Console.WriteLine("Meters amount:" + meters);
         }
 
+        static void Task3()
+        {
+
+        }
+
         static void Main(string[] args)
         {
 
